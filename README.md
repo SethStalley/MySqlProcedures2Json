@@ -1,6 +1,9 @@
 # MysqlProcedures2Json
 Node tool that gets all stored procedures, including parameters, from a MySql schema as JSON. 
 
+## Instalation
+
+Add this to your node project with `npm i mysql-procedures-2-json -S'.
 
 ## Example
 
