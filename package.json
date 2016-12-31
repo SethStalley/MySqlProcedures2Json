@@ -1,6 +1,6 @@
 {
   "name": "mysql-procedures-2-json",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Get a Mysql's schema procedures and parameters as json.",
   "main": "index.js",
   "scripts": {

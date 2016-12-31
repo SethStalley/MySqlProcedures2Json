@@ -39,7 +39,7 @@ function proceduresAsJson(rows) {
             
             data[procedure].parameters = parameters
         } else {
-            data[procedure] = {parameters : []}
+            data[procedure] = {parameters : [parameter]}
         }
     }
     return data;
