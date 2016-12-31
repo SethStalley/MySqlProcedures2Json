@@ -9,7 +9,7 @@ Add this to your node project with `npm i mysql-procedures-2-json -S`.
 
 ```` javascript
 //include this module
-var mysqlProcedures2Json = require(./index)
+var mysqlProcedures2Json = require('mysql-procedures-2-json')
 
 /**
 * Create an object with your mysql configuration.
