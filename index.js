@@ -42,7 +42,6 @@ function proceduresAsJson(rows) {
             data[procedure] = {parameters : []}
         }
     }
-    console.log(data);
     return data;
 }
 
