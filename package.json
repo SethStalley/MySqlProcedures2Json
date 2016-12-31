@@ -1,0 +1,32 @@
+{
+  "name": "mysql-procedures-2-json",
+  "version": "1.0.0",
+  "description": "Get a Mysql's schema procedures and parameters as json.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SethStalley/MySqlProcedures2Json.git"
+  },
+  "keywords": [
+    "msyql",
+    "procedures",
+    "json",
+    "parameters"
+  ],
+  "author": "Seth Stalley <sethstalley@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SethStalley/MySqlProcedures2Json/issues"
+  },
+  "homepage": "https://github.com/SethStalley/MySqlProcedures2Json#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "mysql": "^2.12.0"
+  }
+}
